@@ -36,6 +36,12 @@
 ```python
 print('The product is:', product)
 ```
+# list
+- [x] Complete Markdown lecture
+- [ ] Prepare assignments
+- [x] Review student submissions
+# horizontal lines
 
- 
+***
+---
       
